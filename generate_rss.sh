@@ -27,7 +27,7 @@ jq -r '
 
   .[] |
   "      <item>
-         <title>\(.title)</title>
+  <title>\(.title | sub("&"; "&amp;"; "g") | sub("<"; "&lt;"; "g") | sub(">"; "&gt;"; "g"))</title>
          <link>https://xkcd.com/\(.num)/</link>
          <description>
          <![CDATA[
@@ -49,4 +49,4 @@ cat <<EOF >>$output_file
 </rss>
 EOF
 
-sed -i 's/&eacute;/\&#233;/g' docs/xkcd_feed.xml
+xmllint --noout $output_file
