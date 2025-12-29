@@ -7,7 +7,7 @@
       <language>en-us</language>
       <copyright>xkcd.com</copyright>
       <lastBuildDate>{formatted_pub_date}</lastBuildDate>
-      <atom:link href="https://tucker87.github.io/xkcd-rss/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://tucker87.github.io/xkcd-rss/docs/xkcd_feed.xml" rel="self" type="application/rss+xml" />
       <item>
          <title>Barrel - Part 1</title>
          <link>https://xkcd.com/1/</link>
@@ -50967,22 +50967,6 @@
          </description>
          <guid isPermaLink="true">https://xkcd.com/3186/</guid>
          <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
-      </item>
-      <item>
-         <title></title>
-         <link>https://xkcd.com//</link>
-         <description>
-         <![CDATA[
-            <div>
-               <p>[<a href="https://xkcd.com//">#</a>] </p>
-               <a href="">
-                  <img src="" alt="" style="height: auto" />
-               </a>
-            </div>
-         ]]>
-         </description>
-         <guid isPermaLink="true">https://xkcd.com//</guid>
-         <pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
       </item>
    </channel>
 </rss>

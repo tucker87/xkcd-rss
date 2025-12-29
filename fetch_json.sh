@@ -1,5 +1,5 @@
 function get_json() {
-	curl -sSf "https://xkcd.com/$1/info.0.json" >"json/$1-info.0.json"
+	curl -sSf "https://xkcd.com/$1/info.0.json" >"json/$(printf "%04d" $i)-info.0.json"
 }
 
 count=${1:-10}
