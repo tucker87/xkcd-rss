@@ -48,3 +48,5 @@ cat <<EOF >>$output_file
    </channel>
 </rss>
 EOF
+
+sed -i 's/&eacute;/\&#233;/g' docs/xkcd_feed.xml
