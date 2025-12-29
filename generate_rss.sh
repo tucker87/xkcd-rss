@@ -1,4 +1,4 @@
-output_file="xkcd_feed.xml"
+output_file="docs/xkcd_feed.xml"
 merged_json="json/merged.json"
 
 cat <<EOF >$output_file
