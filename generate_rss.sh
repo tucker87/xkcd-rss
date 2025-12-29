@@ -15,11 +15,9 @@ cat <<EOF >$output_file
 EOF
 
 jq -r '
-  def pad2: if length == 1 then "0"+. else . end;
-
   def pub_date:
     (
-      "\(.year)-\(.month|tostring|pad2)-\(.day|tostring|pad2)"
+      "\(.year)-\(.month)-\(.day)"
       | strptime("%Y-%m-%d")
       | mktime
       | strftime("%a, %d %b %Y %H:%M:%S GMT")
