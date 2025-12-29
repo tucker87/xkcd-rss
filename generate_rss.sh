@@ -20,7 +20,7 @@ while [ "$i" -le "$max" ]; do
 		continue
 	fi
 
-	echo "Processing episode $i / $max"
+	echo -ne "\rProcessing episode $i / $max"
 
 	json=$(<json/$i-info.0.json)
 	num=$(echo -E "$json" | jq -r '.num')
