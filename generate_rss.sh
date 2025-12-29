@@ -20,8 +20,8 @@ jq -r '
       "\(.year)-\(.month)-\(.day)"
       | strptime("%Y-%m-%d")
       | mktime
-      | strftime("%a, %d %b %Y %H:%M:%S GMT")
-    );
+    ) + .num
+    | strftime("%a, %d %b %Y %H:%M:%S GMT");
 
   .[] |
   "      <item>
