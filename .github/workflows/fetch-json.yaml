@@ -19,13 +19,16 @@ jobs:
       - name: get_json
         run: fetch_json.sh
 
+      - name: generate_xml
+        run: generate_rss.sh
+
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
 
           git add ./json
-          git commit -m "Fetch comic json" || echo "No changes to commit"
+          git commit -m "Fetch new episodes" || echo "No changes to commit"
 
           git push origin main
         env:
