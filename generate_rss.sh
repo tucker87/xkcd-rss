@@ -1,5 +1,5 @@
 output_file="docs/xkcd_feed.xml"
-merged_json="json/merged.json"
+merged_json="episodes.json"
 
 cat <<EOF >$output_file
 <?xml version="1.0" encoding="UTF-8" ?>

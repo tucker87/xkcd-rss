@@ -1,9 +1,13 @@
+merged_json="episodes.json"
+
 function get_json() {
-	curl -sSf "https://xkcd.com/$1/info.0.json" >"json/$(printf "%04d" $i)-info.0.json"
+	json=$(curl -sSf "https://xkcd.com/$1/info.0.json") || return 1
+	merged=$(cat "$merged_json")
+	echo "$merged" | jq --argjson new "$json" '. + [$new]' > "$merged_json"
 }
 
 count=${1:-10}
-start=$(find json/* -printf "%f\n" | sort -n | tail -1 | sed 's/[^0-9]//g' | sed 's/.$//')
+start=$(jq '.[-1].num' "$merged_json")
 end=$((start + count))
 i=$start
 while [ "$i" -lt $end ]; do
