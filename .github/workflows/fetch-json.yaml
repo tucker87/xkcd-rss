@@ -1,8 +1,8 @@
 name: Fetch xkcd json
 
 on:
-  #  schedule:
-  #    - cron: "0 5 * * *" # Runs daily
+  schedule:
+    - cron: "0 5 * * *" # Runs daily
   workflow_dispatch:
 
 jobs:
