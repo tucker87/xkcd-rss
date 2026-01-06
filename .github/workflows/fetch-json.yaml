@@ -16,11 +16,14 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: testing
+        run: ls
+
       - name: get_json
-        run: fetch_json.sh
+        run: bash fetch_json.sh
 
       - name: generate_xml
-        run: generate_rss.sh
+        run: bash generate_rss.sh
 
       - name: Commit and push changes
         run: |
