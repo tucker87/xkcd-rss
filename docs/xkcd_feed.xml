@@ -51016,5 +51016,21 @@
          <guid isPermaLink="true">https://xkcd.com/3189/</guid>
          <pubDate>Fri, 02 Jan 2026 00:53:09 GMT</pubDate>
       </item>
+      <item>
+  <title>Tensegrity</title>
+         <link>https://xkcd.com/3190/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3190/">#3190</a>] Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it.</p>
+               <a href="https://imgs.xkcd.com/comics/tensegrity.png">
+                  <img src="https://imgs.xkcd.com/comics/tensegrity.png" alt="Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3190/</guid>
+         <pubDate>Mon, 05 Jan 2026 00:53:10 GMT</pubDate>
+      </item>
    </channel>
 </rss>
