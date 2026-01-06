@@ -41553,5 +41553,31 @@
     "img": "https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png",
     "title": "High Altitude Cooking Instructions",
     "day": "29"
+  },
+  {
+    "month": "12",
+    "num": 3188,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Anyone Else Here",
+    "transcript": "",
+    "alt": "Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.",
+    "img": "https://imgs.xkcd.com/comics/anyone_else_here.png",
+    "title": "Anyone Else Here",
+    "day": "31"
+  },
+  {
+    "month": "1",
+    "num": 3189,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Conic Sections",
+    "transcript": "",
+    "alt": "They're not generally used for crewed spacecraft because astronauts HATE going around the corners.",
+    "img": "https://imgs.xkcd.com/comics/conic_sections.png",
+    "title": "Conic Sections",
+    "day": "2"
   }
 ]
