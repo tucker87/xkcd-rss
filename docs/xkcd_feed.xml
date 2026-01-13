@@ -51064,5 +51064,21 @@
          <guid isPermaLink="true">https://xkcd.com/3192/</guid>
          <pubDate>Fri, 09 Jan 2026 00:53:12 GMT</pubDate>
       </item>
+      <item>
+  <title>Sailing Rigs</title>
+         <link>https://xkcd.com/3193/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3193/">#3193</a>] I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22.</p>
+               <a href="https://imgs.xkcd.com/comics/sailing_rigs.png">
+                  <img src="https://imgs.xkcd.com/comics/sailing_rigs.png" alt="I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3193/</guid>
+         <pubDate>Mon, 12 Jan 2026 00:53:13 GMT</pubDate>
+      </item>
    </channel>
 </rss>
