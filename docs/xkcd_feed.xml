@@ -51096,5 +51096,21 @@
          <guid isPermaLink="true">https://xkcd.com/3194/</guid>
          <pubDate>Wed, 14 Jan 2026 00:53:14 GMT</pubDate>
       </item>
+      <item>
+  <title>International Station</title>
+         <link>https://xkcd.com/3195/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3195/">#3195</a>] Welcome to the International Space Station Exclamation Point!</p>
+               <a href="https://imgs.xkcd.com/comics/international_station.png">
+                  <img src="https://imgs.xkcd.com/comics/international_station.png" alt="Welcome to the International Space Station Exclamation Point!" style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3195/</guid>
+         <pubDate>Fri, 16 Jan 2026 00:53:15 GMT</pubDate>
+      </item>
    </channel>
 </rss>
