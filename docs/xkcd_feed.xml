@@ -51176,5 +51176,21 @@
          <guid isPermaLink="true">https://xkcd.com/3199/</guid>
          <pubDate>Mon, 26 Jan 2026 00:53:19 GMT</pubDate>
       </item>
+      <item>
+  <title>Chemical Formula</title>
+         <link>https://xkcd.com/3200/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3200/">#3200</a>] Some of the atoms in the molecule are very weakly bound.</p>
+               <a href="https://imgs.xkcd.com/comics/chemical_formula.png">
+                  <img src="https://imgs.xkcd.com/comics/chemical_formula.png" alt="Some of the atoms in the molecule are very weakly bound." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3200/</guid>
+         <pubDate>Wed, 28 Jan 2026 00:53:20 GMT</pubDate>
+      </item>
    </channel>
 </rss>
