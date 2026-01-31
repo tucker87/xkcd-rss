@@ -51192,5 +51192,21 @@
          <guid isPermaLink="true">https://xkcd.com/3200/</guid>
          <pubDate>Wed, 28 Jan 2026 00:53:20 GMT</pubDate>
       </item>
+      <item>
+  <title>Proof Without Content</title>
+         <link>https://xkcd.com/3201/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3201/">#3201</a>] There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.</p>
+               <a href="https://imgs.xkcd.com/comics/proof_without_content.png">
+                  <img src="https://imgs.xkcd.com/comics/proof_without_content.png" alt="There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3201/</guid>
+         <pubDate>Fri, 30 Jan 2026 00:53:21 GMT</pubDate>
+      </item>
    </channel>
 </rss>
