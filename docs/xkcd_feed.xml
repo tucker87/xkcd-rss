@@ -51224,5 +51224,21 @@
          <guid isPermaLink="true">https://xkcd.com/3202/</guid>
          <pubDate>Mon, 02 Feb 2026 00:53:22 GMT</pubDate>
       </item>
+      <item>
+  <title>Binary Star</title>
+         <link>https://xkcd.com/3203/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3203/">#3203</a>] The discovery of a fully typographical star system comes with a big asterisk.</p>
+               <a href="https://imgs.xkcd.com/comics/binary_star.png">
+                  <img src="https://imgs.xkcd.com/comics/binary_star.png" alt="The discovery of a fully typographical star system comes with a big asterisk." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3203/</guid>
+         <pubDate>Wed, 04 Feb 2026 00:53:23 GMT</pubDate>
+      </item>
    </channel>
 </rss>
