@@ -51240,5 +51240,21 @@
          <guid isPermaLink="true">https://xkcd.com/3203/</guid>
          <pubDate>Wed, 04 Feb 2026 00:53:23 GMT</pubDate>
       </item>
+      <item>
+  <title>Dinosaurs And Non-Dinosaurs</title>
+         <link>https://xkcd.com/3204/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3204/">#3204</a>] Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.</p>
+               <a href="https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png">
+                  <img src="https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png" alt="Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3204/</guid>
+         <pubDate>Fri, 06 Feb 2026 00:53:24 GMT</pubDate>
+      </item>
    </channel>
 </rss>
