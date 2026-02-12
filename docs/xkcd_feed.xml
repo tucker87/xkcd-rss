@@ -51272,5 +51272,21 @@
          <guid isPermaLink="true">https://xkcd.com/3205/</guid>
          <pubDate>Mon, 09 Feb 2026 00:53:25 GMT</pubDate>
       </item>
+      <item>
+  <title>Installation</title>
+         <link>https://xkcd.com/3206/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3206/">#3206</a>] Do YOU remember the skylight being this big?</p>
+               <a href="https://imgs.xkcd.com/comics/installation.png">
+                  <img src="https://imgs.xkcd.com/comics/installation.png" alt="Do YOU remember the skylight being this big?" style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3206/</guid>
+         <pubDate>Wed, 11 Feb 2026 00:53:26 GMT</pubDate>
+      </item>
    </channel>
 </rss>
