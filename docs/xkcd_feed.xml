@@ -51304,5 +51304,21 @@
          <guid isPermaLink="true">https://xkcd.com/3207/</guid>
          <pubDate>Fri, 13 Feb 2026 00:53:27 GMT</pubDate>
       </item>
+      <item>
+  <title>SNEWS</title>
+         <link>https://xkcd.com/3208/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3208/">#3208</a>] People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible.</p>
+               <a href="https://imgs.xkcd.com/comics/snews.png">
+                  <img src="https://imgs.xkcd.com/comics/snews.png" alt="People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3208/</guid>
+         <pubDate>Mon, 16 Feb 2026 00:53:28 GMT</pubDate>
+      </item>
    </channel>
 </rss>

@@ -41813,5 +41813,18 @@
     "img": "https://imgs.xkcd.com/comics/bad_map_projection_zero_declination.png",
     "title": "Bad Map Projection: Zero Declination",
     "day": "13"
+  },
+  {
+    "month": "2",
+    "num": 3208,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "SNEWS",
+    "transcript": "",
+    "alt": "People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible.",
+    "img": "https://imgs.xkcd.com/comics/snews.png",
+    "title": "SNEWS",
+    "day": "16"
   }
 ]
