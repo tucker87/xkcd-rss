@@ -51368,5 +51368,21 @@
          <guid isPermaLink="true">https://xkcd.com/3211/</guid>
          <pubDate>Mon, 23 Feb 2026 00:53:31 GMT</pubDate>
       </item>
+      <item>
+  <title>Little Red Dots</title>
+         <link>https://xkcd.com/3212/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3212/">#3212</a>] After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.</p>
+               <a href="https://imgs.xkcd.com/comics/little_red_dots.png">
+                  <img src="https://imgs.xkcd.com/comics/little_red_dots.png" alt="After a lot of analysis, I've determined that they're actually big red dots; they're just very far away." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3212/</guid>
+         <pubDate>Wed, 25 Feb 2026 00:53:32 GMT</pubDate>
+      </item>
    </channel>
 </rss>
