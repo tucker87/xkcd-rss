@@ -51400,5 +51400,21 @@
          <guid isPermaLink="true">https://xkcd.com/3213/</guid>
          <pubDate>Fri, 27 Feb 2026 00:53:33 GMT</pubDate>
       </item>
+      <item>
+  <title>Electric Vehicles</title>
+         <link>https://xkcd.com/3214/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3214/">#3214</a>] Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.</p>
+               <a href="https://imgs.xkcd.com/comics/electric_vehicles.png">
+                  <img src="https://imgs.xkcd.com/comics/electric_vehicles.png" alt="Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3214/</guid>
+         <pubDate>Mon, 02 Mar 2026 00:53:34 GMT</pubDate>
+      </item>
    </channel>
 </rss>
