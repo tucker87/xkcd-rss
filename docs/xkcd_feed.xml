@@ -51416,5 +51416,21 @@
          <guid isPermaLink="true">https://xkcd.com/3214/</guid>
          <pubDate>Mon, 02 Mar 2026 00:53:34 GMT</pubDate>
       </item>
+      <item>
+  <title>Solar Warning</title>
+         <link>https://xkcd.com/3215/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3215/">#3215</a>] This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.</p>
+               <a href="https://imgs.xkcd.com/comics/solar_warning.png">
+                  <img src="https://imgs.xkcd.com/comics/solar_warning.png" alt="This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3215/</guid>
+         <pubDate>Wed, 04 Mar 2026 00:53:35 GMT</pubDate>
+      </item>
    </channel>
 </rss>

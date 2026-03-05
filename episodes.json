@@ -41904,5 +41904,18 @@
     "img": "https://imgs.xkcd.com/comics/electric_vehicles.png",
     "title": "Electric Vehicles",
     "day": "2"
+  },
+  {
+    "month": "3",
+    "num": 3215,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Solar Warning",
+    "transcript": "",
+    "alt": "This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.",
+    "img": "https://imgs.xkcd.com/comics/solar_warning.png",
+    "title": "Solar Warning",
+    "day": "4"
   }
 ]
