@@ -51480,5 +51480,21 @@
          <guid isPermaLink="true">https://xkcd.com/3218/</guid>
          <pubDate>Wed, 11 Mar 2026 00:53:38 GMT</pubDate>
       </item>
+      <item>
+  <title>Planets and Bright Stars</title>
+         <link>https://xkcd.com/3219/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3219/">#3219</a>] An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.</p>
+               <a href="https://imgs.xkcd.com/comics/planets_and_bright_stars.png">
+                  <img src="https://imgs.xkcd.com/comics/planets_and_bright_stars.png" alt="An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3219/</guid>
+         <pubDate>Fri, 13 Mar 2026 00:53:39 GMT</pubDate>
+      </item>
    </channel>
 </rss>
