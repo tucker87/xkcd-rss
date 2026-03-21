@@ -51528,5 +51528,21 @@
          <guid isPermaLink="true">https://xkcd.com/3221/</guid>
          <pubDate>Wed, 18 Mar 2026 00:53:41 GMT</pubDate>
       </item>
+      <item>
+  <title>Star Formation</title>
+         <link>https://xkcd.com/3222/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3222/">#3222</a>] It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!</p>
+               <a href="https://imgs.xkcd.com/comics/star_formation.png">
+                  <img src="https://imgs.xkcd.com/comics/star_formation.png" alt="It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!" style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3222/</guid>
+         <pubDate>Fri, 20 Mar 2026 00:53:42 GMT</pubDate>
+      </item>
    </channel>
 </rss>
