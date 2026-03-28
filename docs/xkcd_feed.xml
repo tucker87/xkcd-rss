@@ -51576,5 +51576,21 @@
          <guid isPermaLink="true">https://xkcd.com/3224/</guid>
          <pubDate>Wed, 25 Mar 2026 00:53:44 GMT</pubDate>
       </item>
+      <item>
+  <title>Satellite Pollution</title>
+         <link>https://xkcd.com/3225/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3225/">#3225</a>] We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.</p>
+               <a href="https://imgs.xkcd.com/comics/satellite_pollution.png">
+                  <img src="https://imgs.xkcd.com/comics/satellite_pollution.png" alt="We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3225/</guid>
+         <pubDate>Fri, 27 Mar 2026 00:53:45 GMT</pubDate>
+      </item>
    </channel>
 </rss>
