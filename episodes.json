@@ -42060,5 +42060,18 @@
     "img": "https://imgs.xkcd.com/comics/home_solar.png",
     "title": "Home Solar",
     "day": "30"
+  },
+  {
+    "month": "4",
+    "num": 3227,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Creation",
+    "transcript": "",
+    "alt": "This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.",
+    "img": "https://imgs.xkcd.com/comics/creation.png",
+    "title": "Creation",
+    "day": "1"
   }
 ]

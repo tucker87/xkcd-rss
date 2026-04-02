@@ -51608,5 +51608,21 @@
          <guid isPermaLink="true">https://xkcd.com/3226/</guid>
          <pubDate>Mon, 30 Mar 2026 00:53:46 GMT</pubDate>
       </item>
+      <item>
+  <title>Creation</title>
+         <link>https://xkcd.com/3227/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3227/">#3227</a>] This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.</p>
+               <a href="https://imgs.xkcd.com/comics/creation.png">
+                  <img src="https://imgs.xkcd.com/comics/creation.png" alt="This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3227/</guid>
+         <pubDate>Wed, 01 Apr 2026 00:53:47 GMT</pubDate>
+      </item>
    </channel>
 </rss>
