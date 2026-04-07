@@ -42086,5 +42086,18 @@
     "img": "https://imgs.xkcd.com/comics/day_counter.png",
     "title": "Day Counter",
     "day": "3"
+  },
+  {
+    "month": "4",
+    "num": 3229,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Grammar",
+    "transcript": "",
+    "alt": "Communication is one of the most popular ways to transmit information, ahead of rivals such as",
+    "img": "https://imgs.xkcd.com/comics/grammar.png",
+    "title": "Grammar",
+    "day": "6"
   }
 ]
