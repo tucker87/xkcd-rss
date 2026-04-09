@@ -51656,5 +51656,21 @@
          <guid isPermaLink="true">https://xkcd.com/3229/</guid>
          <pubDate>Mon, 06 Apr 2026 00:53:49 GMT</pubDate>
       </item>
+      <item>
+  <title>Overton</title>
+         <link>https://xkcd.com/3230/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3230/">#3230</a>] I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.</p>
+               <a href="https://imgs.xkcd.com/comics/overton.png">
+                  <img src="https://imgs.xkcd.com/comics/overton.png" alt="I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3230/</guid>
+         <pubDate>Wed, 08 Apr 2026 00:53:50 GMT</pubDate>
+      </item>
    </channel>
 </rss>
