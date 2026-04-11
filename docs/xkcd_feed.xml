@@ -51672,5 +51672,21 @@
          <guid isPermaLink="true">https://xkcd.com/3230/</guid>
          <pubDate>Wed, 08 Apr 2026 00:53:50 GMT</pubDate>
       </item>
+      <item>
+  <title>Lightning</title>
+         <link>https://xkcd.com/3231/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3231/">#3231</a>] Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.</p>
+               <a href="https://imgs.xkcd.com/comics/lightning.png">
+                  <img src="https://imgs.xkcd.com/comics/lightning.png" alt="Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3231/</guid>
+         <pubDate>Fri, 10 Apr 2026 00:53:51 GMT</pubDate>
+      </item>
    </channel>
 </rss>
