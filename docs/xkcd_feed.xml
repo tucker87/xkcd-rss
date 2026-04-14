@@ -51688,5 +51688,21 @@
          <guid isPermaLink="true">https://xkcd.com/3231/</guid>
          <pubDate>Fri, 10 Apr 2026 00:53:51 GMT</pubDate>
       </item>
+      <item>
+  <title>Countdown Standard</title>
+         <link>https://xkcd.com/3232/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3232/">#3232</a>] Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.</p>
+               <a href="https://imgs.xkcd.com/comics/countdown_standard.png">
+                  <img src="https://imgs.xkcd.com/comics/countdown_standard.png" alt="Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3232/</guid>
+         <pubDate>Mon, 13 Apr 2026 00:53:52 GMT</pubDate>
+      </item>
    </channel>
 </rss>
