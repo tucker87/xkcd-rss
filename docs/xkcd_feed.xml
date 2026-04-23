@@ -51752,5 +51752,21 @@
          <guid isPermaLink="true">https://xkcd.com/3235/</guid>
          <pubDate>Mon, 20 Apr 2026 00:53:55 GMT</pubDate>
       </item>
+      <item>
+  <title>Border Message</title>
+         <link>https://xkcd.com/3236/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3236/">#3236</a>] Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.</p>
+               <a href="https://imgs.xkcd.com/comics/border_message.png">
+                  <img src="https://imgs.xkcd.com/comics/border_message.png" alt="Thanks to differences in logging regulations, the messages actually turned out to be visible from the air." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3236/</guid>
+         <pubDate>Wed, 22 Apr 2026 00:53:56 GMT</pubDate>
+      </item>
    </channel>
 </rss>
