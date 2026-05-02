@@ -51816,5 +51816,21 @@
          <guid isPermaLink="true">https://xkcd.com/3239/</guid>
          <pubDate>Wed, 29 Apr 2026 00:53:59 GMT</pubDate>
       </item>
+      <item>
+  <title>Bottle</title>
+         <link>https://xkcd.com/3240/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3240/">#3240</a>] "I know it seems impossible, but the trick is that I sailed in here when I was very young."</p>
+               <a href="https://imgs.xkcd.com/comics/bottle.png">
+                  <img src="https://imgs.xkcd.com/comics/bottle.png" alt=""I know it seems impossible, but the trick is that I sailed in here when I was very young."" style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3240/</guid>
+         <pubDate>Fri, 01 May 2026 00:54:00 GMT</pubDate>
+      </item>
    </channel>
 </rss>
