@@ -42255,5 +42255,18 @@
     "img": "https://imgs.xkcd.com/comics/horizontal_stabilizers.png",
     "title": "Horizontal Stabilizers",
     "day": "4"
+  },
+  {
+    "month": "5",
+    "num": 3242,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Aperiodic Table",
+    "transcript": "",
+    "alt": "Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.",
+    "img": "https://imgs.xkcd.com/comics/aperiodic_table.png",
+    "title": "Aperiodic Table",
+    "day": "6"
   }
 ]

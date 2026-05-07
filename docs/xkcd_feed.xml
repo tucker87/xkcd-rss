@@ -51848,5 +51848,21 @@
          <guid isPermaLink="true">https://xkcd.com/3241/</guid>
          <pubDate>Mon, 04 May 2026 00:54:01 GMT</pubDate>
       </item>
+      <item>
+  <title>Aperiodic Table</title>
+         <link>https://xkcd.com/3242/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3242/">#3242</a>] Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.</p>
+               <a href="https://imgs.xkcd.com/comics/aperiodic_table.png">
+                  <img src="https://imgs.xkcd.com/comics/aperiodic_table.png" alt="Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3242/</guid>
+         <pubDate>Wed, 06 May 2026 00:54:02 GMT</pubDate>
+      </item>
    </channel>
 </rss>
