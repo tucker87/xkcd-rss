@@ -51896,5 +51896,21 @@
          <guid isPermaLink="true">https://xkcd.com/3244/</guid>
          <pubDate>Mon, 11 May 2026 00:54:04 GMT</pubDate>
       </item>
+      <item>
+  <title>Results Age</title>
+         <link>https://xkcd.com/3245/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3245/">#3245</a>] Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.</p>
+               <a href="https://imgs.xkcd.com/comics/results_age.png">
+                  <img src="https://imgs.xkcd.com/comics/results_age.png" alt="Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3245/</guid>
+         <pubDate>Wed, 13 May 2026 00:54:05 GMT</pubDate>
+      </item>
    </channel>
 </rss>

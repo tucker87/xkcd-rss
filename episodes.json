@@ -42294,5 +42294,18 @@
     "img": "https://imgs.xkcd.com/comics/pullback_drive.png",
     "title": "Pullback Drive",
     "day": "11"
+  },
+  {
+    "month": "5",
+    "num": 3245,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Results Age",
+    "transcript": "",
+    "alt": "Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.",
+    "img": "https://imgs.xkcd.com/comics/results_age.png",
+    "title": "Results Age",
+    "day": "13"
   }
 ]
