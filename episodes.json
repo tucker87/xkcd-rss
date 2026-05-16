@@ -42307,5 +42307,18 @@
     "img": "https://imgs.xkcd.com/comics/results_age.png",
     "title": "Results Age",
     "day": "13"
+  },
+  {
+    "month": "5",
+    "num": 3246,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Speedrun",
+    "transcript": "",
+    "alt": "Usain Bolt holds the world record in the 100 meter speedrun.",
+    "img": "https://imgs.xkcd.com/comics/speedrun.png",
+    "title": "Speedrun",
+    "day": "15"
   }
 ]

@@ -51912,5 +51912,21 @@
          <guid isPermaLink="true">https://xkcd.com/3245/</guid>
          <pubDate>Wed, 13 May 2026 00:54:05 GMT</pubDate>
       </item>
+      <item>
+  <title>Speedrun</title>
+         <link>https://xkcd.com/3246/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3246/">#3246</a>] Usain Bolt holds the world record in the 100 meter speedrun.</p>
+               <a href="https://imgs.xkcd.com/comics/speedrun.png">
+                  <img src="https://imgs.xkcd.com/comics/speedrun.png" alt="Usain Bolt holds the world record in the 100 meter speedrun." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3246/</guid>
+         <pubDate>Fri, 15 May 2026 00:54:06 GMT</pubDate>
+      </item>
    </channel>
 </rss>
