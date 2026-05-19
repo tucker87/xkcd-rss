@@ -51928,5 +51928,21 @@
          <guid isPermaLink="true">https://xkcd.com/3246/</guid>
          <pubDate>Fri, 15 May 2026 00:54:06 GMT</pubDate>
       </item>
+      <item>
+  <title>Particle Census</title>
+         <link>https://xkcd.com/3247/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3247/">#3247</a>] Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.</p>
+               <a href="https://imgs.xkcd.com/comics/particle_census.png">
+                  <img src="https://imgs.xkcd.com/comics/particle_census.png" alt="Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3247/</guid>
+         <pubDate>Mon, 18 May 2026 00:54:07 GMT</pubDate>
+      </item>
    </channel>
 </rss>
