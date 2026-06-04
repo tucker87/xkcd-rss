@@ -52040,5 +52040,21 @@
          <guid isPermaLink="true">https://xkcd.com/3253/</guid>
          <pubDate>Mon, 01 Jun 2026 00:54:13 GMT</pubDate>
       </item>
+      <item>
+  <title>Detector</title>
+         <link>https://xkcd.com/3254/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3254/">#3254</a>] No other experiment has a lower false negative rate.</p>
+               <a href="https://imgs.xkcd.com/comics/detector.png">
+                  <img src="https://imgs.xkcd.com/comics/detector.png" alt="No other experiment has a lower false negative rate." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3254/</guid>
+         <pubDate>Wed, 03 Jun 2026 00:54:14 GMT</pubDate>
+      </item>
    </channel>
 </rss>
