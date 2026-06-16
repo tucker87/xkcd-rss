@@ -52120,5 +52120,21 @@
          <guid isPermaLink="true">https://xkcd.com/3258/</guid>
          <pubDate>Fri, 12 Jun 2026 00:54:18 GMT</pubDate>
       </item>
+      <item>
+  <title>Tethys</title>
+         <link>https://xkcd.com/3259/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3259/">#3259</a>] In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.</p>
+               <a href="https://imgs.xkcd.com/comics/tethys.png">
+                  <img src="https://imgs.xkcd.com/comics/tethys.png" alt="In order to carry the necessary crafting supplies, they built the ships at 12:1 scale." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3259/</guid>
+         <pubDate>Mon, 15 Jun 2026 00:54:19 GMT</pubDate>
+      </item>
    </channel>
 </rss>
