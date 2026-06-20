@@ -52152,5 +52152,21 @@
          <guid isPermaLink="true">https://xkcd.com/3260/</guid>
          <pubDate>Wed, 17 Jun 2026 00:54:20 GMT</pubDate>
       </item>
+      <item>
+  <title>Side Effect</title>
+         <link>https://xkcd.com/3261/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3261/">#3261</a>] Brace yourself--the chirp gets pretty weird.</p>
+               <a href="https://imgs.xkcd.com/comics/side_effect.png">
+                  <img src="https://imgs.xkcd.com/comics/side_effect.png" alt="Brace yourself--the chirp gets pretty weird." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3261/</guid>
+         <pubDate>Fri, 19 Jun 2026 00:54:21 GMT</pubDate>
+      </item>
    </channel>
 </rss>
