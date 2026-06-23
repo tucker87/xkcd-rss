@@ -42515,5 +42515,18 @@
     "img": "https://imgs.xkcd.com/comics/side_effect.png",
     "title": "Side Effect",
     "day": "19"
+  },
+  {
+    "month": "6",
+    "num": 3262,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Sports Commentary",
+    "transcript": "",
+    "alt": "The plural of anecdote may not be data, but the singular of data is anecdote.",
+    "img": "https://imgs.xkcd.com/comics/sports_commentary.png",
+    "title": "Sports Commentary",
+    "day": "22"
   }
 ]

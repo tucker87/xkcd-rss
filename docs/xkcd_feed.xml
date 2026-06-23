@@ -52168,5 +52168,21 @@
          <guid isPermaLink="true">https://xkcd.com/3261/</guid>
          <pubDate>Fri, 19 Jun 2026 00:54:21 GMT</pubDate>
       </item>
+      <item>
+  <title>Sports Commentary</title>
+         <link>https://xkcd.com/3262/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3262/">#3262</a>] The plural of anecdote may not be data, but the singular of data is anecdote.</p>
+               <a href="https://imgs.xkcd.com/comics/sports_commentary.png">
+                  <img src="https://imgs.xkcd.com/comics/sports_commentary.png" alt="The plural of anecdote may not be data, but the singular of data is anecdote." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3262/</guid>
+         <pubDate>Mon, 22 Jun 2026 00:54:22 GMT</pubDate>
+      </item>
    </channel>
 </rss>
