@@ -52184,5 +52184,21 @@
          <guid isPermaLink="true">https://xkcd.com/3262/</guid>
          <pubDate>Mon, 22 Jun 2026 00:54:22 GMT</pubDate>
       </item>
+      <item>
+  <title>Baryon Asymmetry</title>
+         <link>https://xkcd.com/3263/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3263/">#3263</a>] Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?</p>
+               <a href="https://imgs.xkcd.com/comics/baryon_asymmetry.png">
+                  <img src="https://imgs.xkcd.com/comics/baryon_asymmetry.png" alt="Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?" style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3263/</guid>
+         <pubDate>Wed, 24 Jun 2026 00:54:23 GMT</pubDate>
+      </item>
    </channel>
 </rss>
