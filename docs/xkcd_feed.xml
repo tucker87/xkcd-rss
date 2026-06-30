@@ -52216,5 +52216,21 @@
          <guid isPermaLink="true">https://xkcd.com/3264/</guid>
          <pubDate>Fri, 26 Jun 2026 00:54:24 GMT</pubDate>
       </item>
+      <item>
+  <title>Asteroid Threat</title>
+         <link>https://xkcd.com/3265/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3265/">#3265</a>] Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.</p>
+               <a href="https://imgs.xkcd.com/comics/asteroid_threat.png">
+                  <img src="https://imgs.xkcd.com/comics/asteroid_threat.png" alt="Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3265/</guid>
+         <pubDate>Mon, 29 Jun 2026 00:54:25 GMT</pubDate>
+      </item>
    </channel>
 </rss>
