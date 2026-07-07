@@ -42593,5 +42593,18 @@
     "img": "https://imgs.xkcd.com/comics/types_of_tornado_alert.png",
     "title": "Types of Tornado Alert",
     "day": "3"
+  },
+  {
+    "month": "7",
+    "num": 3268,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Offside",
+    "transcript": "",
+    "alt": "The arbiter gave my knight a red card for capturing with cleats up :(",
+    "img": "https://imgs.xkcd.com/comics/offside.png",
+    "title": "Offside",
+    "day": "6"
   }
 ]

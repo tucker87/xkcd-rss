@@ -52264,5 +52264,21 @@
          <guid isPermaLink="true">https://xkcd.com/3267/</guid>
          <pubDate>Fri, 03 Jul 2026 00:54:27 GMT</pubDate>
       </item>
+      <item>
+  <title>Offside</title>
+         <link>https://xkcd.com/3268/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3268/">#3268</a>] The arbiter gave my knight a red card for capturing with cleats up :(</p>
+               <a href="https://imgs.xkcd.com/comics/offside.png">
+                  <img src="https://imgs.xkcd.com/comics/offside.png" alt="The arbiter gave my knight a red card for capturing with cleats up :(" style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3268/</guid>
+         <pubDate>Mon, 06 Jul 2026 00:54:28 GMT</pubDate>
+      </item>
    </channel>
 </rss>
