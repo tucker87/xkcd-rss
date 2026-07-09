@@ -52280,5 +52280,21 @@
          <guid isPermaLink="true">https://xkcd.com/3268/</guid>
          <pubDate>Mon, 06 Jul 2026 00:54:28 GMT</pubDate>
       </item>
+      <item>
+  <title>Airport Meeting</title>
+         <link>https://xkcd.com/3269/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3269/">#3269</a>] Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'</p>
+               <a href="https://imgs.xkcd.com/comics/airport_meeting.png">
+                  <img src="https://imgs.xkcd.com/comics/airport_meeting.png" alt="Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'" style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3269/</guid>
+         <pubDate>Wed, 08 Jul 2026 00:54:29 GMT</pubDate>
+      </item>
    </channel>
 </rss>
