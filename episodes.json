@@ -42619,5 +42619,18 @@
     "img": "https://imgs.xkcd.com/comics/airport_meeting.png",
     "title": "Airport Meeting",
     "day": "8"
+  },
+  {
+    "month": "7",
+    "num": 3270,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Toasting Marshmallows",
+    "transcript": "",
+    "alt": "We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate.",
+    "img": "https://imgs.xkcd.com/comics/toasting_marshmallows.png",
+    "title": "Toasting Marshmallows",
+    "day": "10"
   }
 ]
