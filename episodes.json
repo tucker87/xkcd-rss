@@ -42632,5 +42632,18 @@
     "img": "https://imgs.xkcd.com/comics/toasting_marshmallows.png",
     "title": "Toasting Marshmallows",
     "day": "10"
+  },
+  {
+    "month": "7",
+    "num": 3271,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "The Princess and the Pea",
+    "transcript": "",
+    "alt": "Once we've fully explored this space, we can start varying the number of princesses.",
+    "img": "https://imgs.xkcd.com/comics/the_princess_and_the_pea.png",
+    "title": "The Princess and the Pea",
+    "day": "13"
   }
 ]
