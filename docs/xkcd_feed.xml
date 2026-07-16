@@ -52328,5 +52328,21 @@
          <guid isPermaLink="true">https://xkcd.com/3271/</guid>
          <pubDate>Mon, 13 Jul 2026 00:54:31 GMT</pubDate>
       </item>
+      <item>
+  <title>Time Change</title>
+         <link>https://xkcd.com/3272/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3272/">#3272</a>] All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.</p>
+               <a href="https://imgs.xkcd.com/comics/time_change.png">
+                  <img src="https://imgs.xkcd.com/comics/time_change.png" alt="All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3272/</guid>
+         <pubDate>Wed, 15 Jul 2026 00:54:32 GMT</pubDate>
+      </item>
    </channel>
 </rss>
