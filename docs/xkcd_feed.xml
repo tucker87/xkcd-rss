@@ -52344,5 +52344,21 @@
          <guid isPermaLink="true">https://xkcd.com/3272/</guid>
          <pubDate>Wed, 15 Jul 2026 00:54:32 GMT</pubDate>
       </item>
+      <item>
+  <title>Latitude and Longitude</title>
+         <link>https://xkcd.com/3273/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3273/">#3273</a>] NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).</p>
+               <a href="https://imgs.xkcd.com/comics/latitude_and_longitude.png">
+                  <img src="https://imgs.xkcd.com/comics/latitude_and_longitude.png" alt="NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730)." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3273/</guid>
+         <pubDate>Fri, 17 Jul 2026 00:54:33 GMT</pubDate>
+      </item>
    </channel>
 </rss>
