@@ -52424,5 +52424,21 @@
          <guid isPermaLink="true">https://xkcd.com/3277/</guid>
          <pubDate>Mon, 27 Jul 2026 00:54:37 GMT</pubDate>
       </item>
+      <item>
+  <title>Vera Rubin Observatory</title>
+         <link>https://xkcd.com/3278/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3278/">#3278</a>] 'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.</p>
+               <a href="https://imgs.xkcd.com/comics/vera_rubin_observatory.png">
+                  <img src="https://imgs.xkcd.com/comics/vera_rubin_observatory.png" alt="'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3278/</guid>
+         <pubDate>Wed, 29 Jul 2026 00:54:38 GMT</pubDate>
+      </item>
    </channel>
 </rss>
