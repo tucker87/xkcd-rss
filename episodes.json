@@ -42736,5 +42736,18 @@
     "img": "https://imgs.xkcd.com/comics/vera_rubin_observatory.png",
     "title": "Vera Rubin Observatory",
     "day": "29"
+  },
+  {
+    "month": "7",
+    "num": 3279,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Main Span",
+    "transcript": "",
+    "alt": "Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?",
+    "img": "https://imgs.xkcd.com/comics/main_span.png",
+    "title": "Main Span",
+    "day": "31"
   }
 ]
