@@ -42749,5 +42749,18 @@
     "img": "https://imgs.xkcd.com/comics/main_span.png",
     "title": "Main Span",
     "day": "31"
+  },
+  {
+    "month": "8",
+    "num": 3280,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Maze",
+    "transcript": "",
+    "alt": "As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology.",
+    "img": "https://imgs.xkcd.com/comics/maze.png",
+    "title": "Maze",
+    "day": "3"
   }
 ]
