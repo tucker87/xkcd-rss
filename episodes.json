@@ -42801,5 +42801,18 @@
     "img": "https://imgs.xkcd.com/comics/size_and_lifespan.png",
     "title": "Size and Lifespan",
     "day": "10"
+  },
+  {
+    "month": "8",
+    "num": 3284,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Geology Building",
+    "transcript": "",
+    "alt": "The administration thinks it's weird, but the geologists say it looks normal.",
+    "img": "https://imgs.xkcd.com/comics/geology_building.png",
+    "title": "Geology Building",
+    "day": "12"
   }
 ]
