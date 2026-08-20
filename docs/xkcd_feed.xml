@@ -52568,5 +52568,21 @@
          <guid isPermaLink="true">https://xkcd.com/3286/</guid>
          <pubDate>Mon, 17 Aug 2026 00:54:46 GMT</pubDate>
       </item>
+      <item>
+  <title>Perseids</title>
+         <link>https://xkcd.com/3287/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3287/">#3287</a>] Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.</p>
+               <a href="https://imgs.xkcd.com/comics/perseids.png">
+                  <img src="https://imgs.xkcd.com/comics/perseids.png" alt="Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3287/</guid>
+         <pubDate>Wed, 19 Aug 2026 00:54:47 GMT</pubDate>
+      </item>
    </channel>
 </rss>

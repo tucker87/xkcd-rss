@@ -42840,5 +42840,18 @@
     "img": "https://imgs.xkcd.com/comics/particle_physics_equipment.png",
     "title": "Particle Physics Equipment",
     "day": "17"
+  },
+  {
+    "month": "8",
+    "num": 3287,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Perseids",
+    "transcript": "",
+    "alt": "Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.",
+    "img": "https://imgs.xkcd.com/comics/perseids.png",
+    "title": "Perseids",
+    "day": "19"
   }
 ]
