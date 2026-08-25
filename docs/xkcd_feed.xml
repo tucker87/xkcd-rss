@@ -52600,5 +52600,21 @@
          <guid isPermaLink="true">https://xkcd.com/3288/</guid>
          <pubDate>Fri, 21 Aug 2026 00:54:48 GMT</pubDate>
       </item>
+      <item>
+  <title>Highway Signs</title>
+         <link>https://xkcd.com/3289/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3289/">#3289</a>] Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.</p>
+               <a href="https://imgs.xkcd.com/comics/highway_signs.png">
+                  <img src="https://imgs.xkcd.com/comics/highway_signs.png" alt="Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3289/</guid>
+         <pubDate>Mon, 24 Aug 2026 00:54:49 GMT</pubDate>
+      </item>
    </channel>
 </rss>
