@@ -42892,5 +42892,18 @@
     "img": "https://imgs.xkcd.com/comics/trade.png",
     "title": "Trade",
     "day": "26"
+  },
+  {
+    "month": "8",
+    "num": 3291,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Launchpad",
+    "transcript": "",
+    "alt": "It does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility's budget.",
+    "img": "https://imgs.xkcd.com/comics/launchpad.png",
+    "title": "Launchpad",
+    "day": "28"
   }
 ]

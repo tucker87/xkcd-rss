@@ -52632,5 +52632,21 @@
          <guid isPermaLink="true">https://xkcd.com/3290/</guid>
          <pubDate>Wed, 26 Aug 2026 00:54:50 GMT</pubDate>
       </item>
+      <item>
+  <title>Launchpad</title>
+         <link>https://xkcd.com/3291/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3291/">#3291</a>] It does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility's budget.</p>
+               <a href="https://imgs.xkcd.com/comics/launchpad.png">
+                  <img src="https://imgs.xkcd.com/comics/launchpad.png" alt="It does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility's budget." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3291/</guid>
+         <pubDate>Fri, 28 Aug 2026 00:54:51 GMT</pubDate>
+      </item>
    </channel>
 </rss>
