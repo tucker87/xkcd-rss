@@ -52680,5 +52680,21 @@
          <guid isPermaLink="true">https://xkcd.com/3293/</guid>
          <pubDate>Wed, 02 Sep 2026 00:54:53 GMT</pubDate>
       </item>
+      <item>
+  <title>Asteroid Mission</title>
+         <link>https://xkcd.com/3294/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3294/">#3294</a>] Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.</p>
+               <a href="https://imgs.xkcd.com/comics/asteroid_mission.png">
+                  <img src="https://imgs.xkcd.com/comics/asteroid_mission.png" alt="Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3294/</guid>
+         <pubDate>Fri, 04 Sep 2026 00:54:54 GMT</pubDate>
+      </item>
    </channel>
 </rss>
