@@ -52696,5 +52696,21 @@
          <guid isPermaLink="true">https://xkcd.com/3294/</guid>
          <pubDate>Fri, 04 Sep 2026 00:54:54 GMT</pubDate>
       </item>
+      <item>
+  <title>Semaphore</title>
+         <link>https://xkcd.com/3295/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3295/">#3295</a>] The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.</p>
+               <a href="https://imgs.xkcd.com/comics/semaphore.png">
+                  <img src="https://imgs.xkcd.com/comics/semaphore.png" alt="The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3295/</guid>
+         <pubDate>Mon, 07 Sep 2026 00:54:55 GMT</pubDate>
+      </item>
    </channel>
 </rss>
