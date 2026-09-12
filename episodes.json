@@ -42970,5 +42970,18 @@
     "img": "https://imgs.xkcd.com/comics/fault_taunting.png",
     "title": "Fault Taunting",
     "day": "9"
+  },
+  {
+    "month": "9",
+    "num": 3297,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "OH Scale",
+    "transcript": "",
+    "alt": "To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.",
+    "img": "https://imgs.xkcd.com/comics/oh_scale.png",
+    "title": "OH Scale",
+    "day": "11"
   }
 ]

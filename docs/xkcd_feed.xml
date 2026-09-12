@@ -52728,5 +52728,21 @@
          <guid isPermaLink="true">https://xkcd.com/3296/</guid>
          <pubDate>Wed, 09 Sep 2026 00:54:56 GMT</pubDate>
       </item>
+      <item>
+  <title>OH Scale</title>
+         <link>https://xkcd.com/3297/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3297/">#3297</a>] To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.</p>
+               <a href="https://imgs.xkcd.com/comics/oh_scale.png">
+                  <img src="https://imgs.xkcd.com/comics/oh_scale.png" alt="To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3297/</guid>
+         <pubDate>Fri, 11 Sep 2026 00:54:57 GMT</pubDate>
+      </item>
    </channel>
 </rss>
