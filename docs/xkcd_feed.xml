@@ -52744,5 +52744,21 @@
          <guid isPermaLink="true">https://xkcd.com/3297/</guid>
          <pubDate>Fri, 11 Sep 2026 00:54:57 GMT</pubDate>
       </item>
+      <item>
+  <title>Aerospace Flowchart</title>
+         <link>https://xkcd.com/3298/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3298/">#3298</a>] Someday, we will find the problem that goes with this solution.</p>
+               <a href="https://imgs.xkcd.com/comics/aerospace_flowchart.png">
+                  <img src="https://imgs.xkcd.com/comics/aerospace_flowchart.png" alt="Someday, we will find the problem that goes with this solution." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3298/</guid>
+         <pubDate>Mon, 14 Sep 2026 00:54:58 GMT</pubDate>
+      </item>
    </channel>
 </rss>
