@@ -52760,5 +52760,21 @@
          <guid isPermaLink="true">https://xkcd.com/3298/</guid>
          <pubDate>Mon, 14 Sep 2026 00:54:58 GMT</pubDate>
       </item>
+      <item>
+  <title>Summer</title>
+         <link>https://xkcd.com/3299/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3299/">#3299</a>] You should probably get back to shore before spring hits.</p>
+               <a href="https://imgs.xkcd.com/comics/summer.png">
+                  <img src="https://imgs.xkcd.com/comics/summer.png" alt="You should probably get back to shore before spring hits." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3299/</guid>
+         <pubDate>Wed, 16 Sep 2026 00:54:59 GMT</pubDate>
+      </item>
    </channel>
 </rss>
