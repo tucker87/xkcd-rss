@@ -52792,5 +52792,21 @@
          <guid isPermaLink="true">https://xkcd.com/3300/</guid>
          <pubDate>Fri, 18 Sep 2026 00:55:00 GMT</pubDate>
       </item>
+      <item>
+  <title>Stargazing 5</title>
+         <link>https://xkcd.com/3301/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3301/">#3301</a>] The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.</p>
+               <a href="https://imgs.xkcd.com/comics/stargazing_5.png">
+                  <img src="https://imgs.xkcd.com/comics/stargazing_5.png" alt="The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3301/</guid>
+         <pubDate>Mon, 21 Sep 2026 00:55:01 GMT</pubDate>
+      </item>
    </channel>
 </rss>
