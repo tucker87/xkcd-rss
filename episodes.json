@@ -43048,5 +43048,18 @@
     "img": "https://imgs.xkcd.com/comics/voyager_instruments.png",
     "title": "Voyager Instruments",
     "day": "23"
+  },
+  {
+    "month": "9",
+    "num": 3303,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Slab Graveyard",
+    "transcript": "",
+    "alt": "It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!",
+    "img": "https://imgs.xkcd.com/comics/slab_graveyard.png",
+    "title": "Slab Graveyard",
+    "day": "25"
   }
 ]
