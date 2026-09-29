@@ -43061,5 +43061,18 @@
     "img": "https://imgs.xkcd.com/comics/slab_graveyard.png",
     "title": "Slab Graveyard",
     "day": "25"
+  },
+  {
+    "month": "9",
+    "num": 3304,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Jupiter Icy Moons Explorer",
+    "transcript": "",
+    "alt": "\"I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons.\"",
+    "img": "https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png",
+    "title": "Jupiter Icy Moons Explorer",
+    "day": "28"
   }
 ]

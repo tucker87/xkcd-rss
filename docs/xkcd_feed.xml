@@ -52840,5 +52840,21 @@
          <guid isPermaLink="true">https://xkcd.com/3303/</guid>
          <pubDate>Fri, 25 Sep 2026 00:55:03 GMT</pubDate>
       </item>
+      <item>
+  <title>Jupiter Icy Moons Explorer</title>
+         <link>https://xkcd.com/3304/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3304/">#3304</a>] "I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons."</p>
+               <a href="https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png">
+                  <img src="https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png" alt=""I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons."" style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3304/</guid>
+         <pubDate>Mon, 28 Sep 2026 00:55:04 GMT</pubDate>
+      </item>
    </channel>
 </rss>
