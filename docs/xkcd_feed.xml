@@ -52856,5 +52856,21 @@
          <guid isPermaLink="true">https://xkcd.com/3304/</guid>
          <pubDate>Mon, 28 Sep 2026 00:55:04 GMT</pubDate>
       </item>
+      <item>
+  <title>Ground Effect</title>
+         <link>https://xkcd.com/3305/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3305/">#3305</a>] Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.</p>
+               <a href="https://imgs.xkcd.com/comics/ground_effect.png">
+                  <img src="https://imgs.xkcd.com/comics/ground_effect.png" alt="Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3305/</guid>
+         <pubDate>Wed, 30 Sep 2026 00:55:05 GMT</pubDate>
+      </item>
    </channel>
 </rss>
