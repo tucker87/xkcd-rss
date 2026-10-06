@@ -52888,5 +52888,21 @@
          <guid isPermaLink="true">https://xkcd.com/3306/</guid>
          <pubDate>Fri, 02 Oct 2026 00:55:06 GMT</pubDate>
       </item>
+      <item>
+  <title>Spectrum Allocation</title>
+         <link>https://xkcd.com/3307/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3307/">#3307</a>] Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.</p>
+               <a href="https://imgs.xkcd.com/comics/spectrum_allocation.png">
+                  <img src="https://imgs.xkcd.com/comics/spectrum_allocation.png" alt="Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3307/</guid>
+         <pubDate>Mon, 05 Oct 2026 00:55:07 GMT</pubDate>
+      </item>
    </channel>
 </rss>
