@@ -52904,5 +52904,21 @@
          <guid isPermaLink="true">https://xkcd.com/3307/</guid>
          <pubDate>Mon, 05 Oct 2026 00:55:07 GMT</pubDate>
       </item>
+      <item>
+  <title>Juice</title>
+         <link>https://xkcd.com/3308/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3308/">#3308</a>] I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.</p>
+               <a href="https://imgs.xkcd.com/comics/juice.png">
+                  <img src="https://imgs.xkcd.com/comics/juice.png" alt="I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3308/</guid>
+         <pubDate>Wed, 07 Oct 2026 00:55:08 GMT</pubDate>
+      </item>
    </channel>
 </rss>
