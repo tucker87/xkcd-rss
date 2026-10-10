@@ -43126,5 +43126,18 @@
     "img": "https://imgs.xkcd.com/comics/juice.png",
     "title": "Juice",
     "day": "7"
+  },
+  {
+    "month": "10",
+    "num": 3309,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Dogcatcher",
+    "transcript": "",
+    "alt": "People out here catching strays out here catching strays",
+    "img": "https://imgs.xkcd.com/comics/dogcatcher.png",
+    "title": "Dogcatcher",
+    "day": "9"
   }
 ]

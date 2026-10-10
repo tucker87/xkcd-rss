@@ -52920,5 +52920,21 @@
          <guid isPermaLink="true">https://xkcd.com/3308/</guid>
          <pubDate>Wed, 07 Oct 2026 00:55:08 GMT</pubDate>
       </item>
+      <item>
+  <title>Dogcatcher</title>
+         <link>https://xkcd.com/3309/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3309/">#3309</a>] People out here catching strays out here catching strays</p>
+               <a href="https://imgs.xkcd.com/comics/dogcatcher.png">
+                  <img src="https://imgs.xkcd.com/comics/dogcatcher.png" alt="People out here catching strays out here catching strays" style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3309/</guid>
+         <pubDate>Fri, 09 Oct 2026 00:55:09 GMT</pubDate>
+      </item>
    </channel>
 </rss>
