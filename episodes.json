@@ -43152,5 +43152,18 @@
     "img": "https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png",
     "title": "Rejected Space Mission Profiles",
     "day": "12"
+  },
+  {
+    "month": "10",
+    "num": 3311,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Planet Database",
+    "transcript": "",
+    "alt": "Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.",
+    "img": "https://imgs.xkcd.com/comics/planet_database.png",
+    "title": "Planet Database",
+    "day": "14"
   }
 ]

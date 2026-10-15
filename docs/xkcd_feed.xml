@@ -52952,5 +52952,21 @@
          <guid isPermaLink="true">https://xkcd.com/3310/</guid>
          <pubDate>Mon, 12 Oct 2026 00:55:10 GMT</pubDate>
       </item>
+      <item>
+  <title>Planet Database</title>
+         <link>https://xkcd.com/3311/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3311/">#3311</a>] Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.</p>
+               <a href="https://imgs.xkcd.com/comics/planet_database.png">
+                  <img src="https://imgs.xkcd.com/comics/planet_database.png" alt="Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3311/</guid>
+         <pubDate>Wed, 14 Oct 2026 00:55:11 GMT</pubDate>
+      </item>
    </channel>
 </rss>
