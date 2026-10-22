@@ -43191,5 +43191,18 @@
     "img": "https://imgs.xkcd.com/comics/fusion_device.png",
     "title": "Fusion Device",
     "day": "19"
+  },
+  {
+    "month": "10",
+    "num": 3314,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Vulnerability",
+    "transcript": "",
+    "alt": "Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.",
+    "img": "https://imgs.xkcd.com/comics/vulnerability.png",
+    "title": "Vulnerability",
+    "day": "21"
   }
 ]

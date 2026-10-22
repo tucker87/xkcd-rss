@@ -53000,5 +53000,21 @@
          <guid isPermaLink="true">https://xkcd.com/3313/</guid>
          <pubDate>Mon, 19 Oct 2026 00:55:13 GMT</pubDate>
       </item>
+      <item>
+  <title>Vulnerability</title>
+         <link>https://xkcd.com/3314/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3314/">#3314</a>] Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.</p>
+               <a href="https://imgs.xkcd.com/comics/vulnerability.png">
+                  <img src="https://imgs.xkcd.com/comics/vulnerability.png" alt="Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3314/</guid>
+         <pubDate>Wed, 21 Oct 2026 00:55:14 GMT</pubDate>
+      </item>
    </channel>
 </rss>
