@@ -43204,5 +43204,18 @@
     "img": "https://imgs.xkcd.com/comics/vulnerability.png",
     "title": "Vulnerability",
     "day": "21"
+  },
+  {
+    "month": "10",
+    "num": 3315,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Forms of Water",
+    "transcript": "",
+    "alt": "The 'light' refers to bremsstrahlung.",
+    "img": "https://imgs.xkcd.com/comics/forms_of_water.png",
+    "title": "Forms of Water",
+    "day": "23"
   }
 ]
