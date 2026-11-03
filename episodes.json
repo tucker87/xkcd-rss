@@ -43256,5 +43256,18 @@
     "img": "https://imgs.xkcd.com/comics/earth_sized_planets.png",
     "title": "Earth Sized Planets",
     "day": "30"
+  },
+  {
+    "month": "11",
+    "num": 3319,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Elevators",
+    "transcript": "",
+    "alt": "\"A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs.\"",
+    "img": "https://imgs.xkcd.com/comics/elevators.png",
+    "title": "Elevators",
+    "day": "2"
   }
 ]
