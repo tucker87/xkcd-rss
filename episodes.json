@@ -43269,5 +43269,18 @@
     "img": "https://imgs.xkcd.com/comics/elevators.png",
     "title": "Elevators",
     "day": "2"
+  },
+  {
+    "month": "11",
+    "num": 3320,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "House Majority",
+    "transcript": "",
+    "alt": "For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.",
+    "img": "https://imgs.xkcd.com/comics/house_majority.png",
+    "title": "House Majority",
+    "day": "4"
   }
 ]
