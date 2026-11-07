@@ -43282,5 +43282,18 @@
     "img": "https://imgs.xkcd.com/comics/house_majority.png",
     "title": "House Majority",
     "day": "4"
+  },
+  {
+    "month": "11",
+    "num": 3321,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Simulation",
+    "transcript": "",
+    "alt": "No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.",
+    "img": "https://imgs.xkcd.com/comics/simulation.png",
+    "title": "Simulation",
+    "day": "6"
   }
 ]

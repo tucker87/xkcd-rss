@@ -53112,5 +53112,21 @@
          <guid isPermaLink="true">https://xkcd.com/3320/</guid>
          <pubDate>Wed, 04 Nov 2026 00:55:20 GMT</pubDate>
       </item>
+      <item>
+  <title>Simulation</title>
+         <link>https://xkcd.com/3321/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3321/">#3321</a>] No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.</p>
+               <a href="https://imgs.xkcd.com/comics/simulation.png">
+                  <img src="https://imgs.xkcd.com/comics/simulation.png" alt="No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3321/</guid>
+         <pubDate>Fri, 06 Nov 2026 00:55:21 GMT</pubDate>
+      </item>
    </channel>
 </rss>
