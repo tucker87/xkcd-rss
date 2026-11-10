@@ -53128,5 +53128,21 @@
          <guid isPermaLink="true">https://xkcd.com/3321/</guid>
          <pubDate>Fri, 06 Nov 2026 00:55:21 GMT</pubDate>
       </item>
+      <item>
+  <title>Dragonfly</title>
+         <link>https://xkcd.com/3322/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3322/">#3322</a>] I'm excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, 'Titan's surface' is right up there at the top with 'Jupiter's atmosphere.'</p>
+               <a href="https://imgs.xkcd.com/comics/dragonfly.png">
+                  <img src="https://imgs.xkcd.com/comics/dragonfly.png" alt="I'm excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, 'Titan's surface' is right up there at the top with 'Jupiter's atmosphere.'" style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3322/</guid>
+         <pubDate>Mon, 09 Nov 2026 00:55:22 GMT</pubDate>
+      </item>
    </channel>
 </rss>
