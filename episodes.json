@@ -43308,5 +43308,18 @@
     "img": "https://imgs.xkcd.com/comics/dragonfly.png",
     "title": "Dragonfly",
     "day": "9"
+  },
+  {
+    "month": "11",
+    "num": 3323,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Meteor Fear",
+    "transcript": "",
+    "alt": "Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!",
+    "img": "https://imgs.xkcd.com/comics/meteor_fear.png",
+    "title": "Meteor Fear",
+    "day": "11"
   }
 ]

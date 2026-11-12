@@ -53144,5 +53144,21 @@
          <guid isPermaLink="true">https://xkcd.com/3322/</guid>
          <pubDate>Mon, 09 Nov 2026 00:55:22 GMT</pubDate>
       </item>
+      <item>
+  <title>Meteor Fear</title>
+         <link>https://xkcd.com/3323/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3323/">#3323</a>] Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!</p>
+               <a href="https://imgs.xkcd.com/comics/meteor_fear.png">
+                  <img src="https://imgs.xkcd.com/comics/meteor_fear.png" alt="Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!" style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3323/</guid>
+         <pubDate>Wed, 11 Nov 2026 00:55:23 GMT</pubDate>
+      </item>
    </channel>
 </rss>
