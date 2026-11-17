@@ -53176,5 +53176,21 @@
          <guid isPermaLink="true">https://xkcd.com/3324/</guid>
          <pubDate>Fri, 13 Nov 2026 00:55:24 GMT</pubDate>
       </item>
+      <item>
+  <title>Light-Day</title>
+         <link>https://xkcd.com/3325/</link>
+         <description>
+         <![CDATA[
+            <div>
+               <p>[<a href="https://xkcd.com/3325/">#3325</a>] After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players.</p>
+               <a href="https://imgs.xkcd.com/comics/light_day.png">
+                  <img src="https://imgs.xkcd.com/comics/light_day.png" alt="After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players." style="height: auto" />
+               </a>
+            </div>
+         ]]>
+         </description>
+         <guid isPermaLink="true">https://xkcd.com/3325/</guid>
+         <pubDate>Mon, 16 Nov 2026 00:55:25 GMT</pubDate>
+      </item>
    </channel>
 </rss>
